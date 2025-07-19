@@ -11,7 +11,5 @@ Ce portfolio illustre mes compétences sur toute la chaîne décisionnelle :
 - ☁️ Cloud & Big Data : SAP DataSphere, AWS, Splunk
 
 ## 🧪 Projets
-- **[ETL Airbnb (Python/PostgreSQL)](./etl/etl_airbnb_postgres_python)**  
-- **[Modèle en étoile - Ventes Retail](./datamodeling/star_schema_sales)**  
-- **[Dashboard Power BI - KPI ventes](./dataviz/powerbi_sales_dashboard)**  
-- **[Setup SAP DataSphere](./cloud/sap_datasphere_setup.md)**
+1️⃣
+- ****  
