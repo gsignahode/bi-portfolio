@@ -10,6 +10,10 @@ Ce portfolio illustre mes compétences sur toute la chaîne décisionnelle :
 - 📊 Visualisation : Tableau, Power BI, SAP Business Objects
 - ☁️ Cloud & Big Data : SAP DataSphere, AWS, Splunk
 
-## 🧪 Projets
-1️⃣
-- ****  
+## 🧪 1️⃣ Projets Haute Autorité pour la Transparence de la Vie Publique (HATVP)
+Utilise les jeux de données offerts par la HATVP (https://www.hatvp.fr/open-data) :
+- Répertoire des représentants d’intérêts (CSV https://www.hatvp.fr/livraison/opendata/liste.csv)
+- Déclarations publiées : intérêts & patrimoine des responsables publics (format XML https://www.hatvp.fr/livraison/merge/declarations.xml) 
+
+
+****  
